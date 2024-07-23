@@ -1,5 +1,5 @@
 # FNF Mystical Engine
-This is my FNF Engine its real cool. It's Easy to mod
+This is my FNF Engine its really cool. It's Easy to mod
 
 Has Good FPS 
 
